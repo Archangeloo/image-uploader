@@ -1,4 +1,4 @@
-# Aula Upload
+# Image-Uploader
 
 API para upload, listagem, atualização e remoção de imagens usando Node.js, Express e MySQL.
 
